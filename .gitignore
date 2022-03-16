@@ -29,5 +29,8 @@ dependency-reduced-pom.xml
 *.iws
 *.idea
 
+#Nuestra movida
+sandbox/
+
 README.html
 application.properties
